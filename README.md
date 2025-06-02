@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello and welcome to my GitHub profile — I'm Gogo Harrison</h1>
 
-A data-driven **Data Scientist and Analyst** with expertise in **machine learning, NLP, predictive modeling, and data engineering.** I specialize in turning raw data into actionable insights, leveraging **Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, and Azure Data Services** to solve real-world problems.
+A data-driven **Data Scientist and Analyst** with expertise in **machine learning, NLP, and predictive modeling.** I specialize in turning raw data into actionable insights, leveraging **Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, and Azure Data Services** to solve real-world problems.
 
 #### 📌 Key Projects:
 
@@ -25,7 +25,7 @@ I am passionate about open-source contributions, model deployment, and data-driv
 
 - 🔭 I’m currently working on [Sales Funnel Analysis](https://github.com/GogoHarry/Sales-Funnel-Analysis)
 
-- 🌱 I’m currently learning **Microsoft Azure (Databricks, Data Lake, Azure ML), PySpark & Scalable Data Pipelines, Advanced MLOps Practices**
+- 🌱 I’m currently learning **Deep Learning (Neural Networks, LSTMs, GRUs), NLP with Recurrent Architectures, and Transformer-based Models.**
 
 - 👯 I’m looking to collaborate on [Precision Pest Control Via Object Detection](https://github.com/GogoHarry/Precision-Pest-Control-Via-Object-Detection)
 
