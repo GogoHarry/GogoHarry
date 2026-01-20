@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello and welcome to my GitHub profile — I'm Gogo Harrison</h1>
 
-A data-driven **Data Scientist and Analyst** with expertise in **machine learning, NLP, and predictive modeling.** I specialize in turning raw data into actionable insights, leveraging **Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, and Azure Data Services** to solve real-world problems.
+A data-driven **Data Scientist and Analyst** with expertise in **machine learning, NLP, and predictive modeling.**I specialize in transforming raw data into actionable insights, leveraging Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, and Azure Data Services to solve real-world problems. **
 
 #### 📌 Key Projects:
 
@@ -23,13 +23,9 @@ I am passionate about open-source contributions, model deployment, and data-driv
 
 <p align="left"> <a href="https://twitter.com/gogo_harrison" target="blank"><img src="https://img.shields.io/twitter/follow/gogo_harrison?logo=twitter&style=for-the-badge" alt="gogo_harrison" /></a> </p>
 
-- 🔭 I’m currently working on [Sales Funnel Analysis](https://github.com/GogoHarry/Sales-Funnel-Analysis)
-
 - 🌱 I’m currently learning **Deep Learning (Neural Networks, LSTMs, GRUs), NLP with Recurrent Architectures, and Transformer-based Models.**
 
 - 👯 I’m looking to collaborate on [Precision Pest Control Via Object Detection](https://github.com/GogoHarry/Precision-Pest-Control-Via-Object-Detection)
-
-- 🤝 I’m looking for help with [YouTube Channel Content Analytic](https://github.com/GogoHarry/Alex-The-Analyst-s-YouTube-Channel-Content-Analytic)
 
 - 👨‍💻 All of my projects are available at [https://gogoharry.github.io/Harrison.github.io/](https://gogoharry.github.io/Harrison.github.io/)
 
@@ -41,7 +37,6 @@ I am passionate about open-source contributions, model deployment, and data-driv
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lIqoaIDMJd1uTz3Bs0xXkspaGncbNWlc/view?usp=sharing](https://drive.google.com/file/d/1lIqoaIDMJd1uTz3Bs0xXkspaGncbNWlc/view?usp=sharing)
 
-- ⚡ Fun fact **I once led a data science team that increased customer engagement by 15%—powered by sentiment analysis and late-night coffee. ☕💡**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
