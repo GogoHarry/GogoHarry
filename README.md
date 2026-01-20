@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello and welcome to my GitHub profile — I'm Gogo Harrison</h1>
 
-A data-driven **Data Scientist and Analyst** with expertise in **machine learning, NLP, and predictive modeling.**I specialize in transforming raw data into actionable insights, leveraging Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, and Azure Data Services to solve real-world problems. **
+A data-driven **Data Scientist and Analyst** with expertise in **machine learning, NLP, and predictive modeling.**I specialize in transforming raw data into actionable insights, leveraging Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, and Azure Data Services to solve real-world problems.**
 
 #### 📌 Key Projects:
 
