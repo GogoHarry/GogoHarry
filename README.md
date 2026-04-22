@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="header.jpg" alt="Gogo Harrison Banner"/>
+</p>
+
 <div align="center">
 
-# Gogo Harrison
+# Gogo Isaac Harrison
 
 ### Data Scientist · Machine Learning Engineer · Analytics
 
